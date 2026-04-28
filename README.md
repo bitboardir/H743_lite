@@ -3,9 +3,12 @@ shematic and example code for stm32h743 development board
 
 
 
-![Board Image]([[/pic/h743_lite_1.bmp))
-![Board Image](/pic/h743_lite_1.bmp)
-
+<p align="center">
+  <img src="/pic/h743_lite_1.bmp" alt="Board Image" width="700">
+</p>
+<p align="center">
+  <img src="/pic/h743_lite_2.bmp" alt="Board Image" width="700">
+</p>
 
 
 
