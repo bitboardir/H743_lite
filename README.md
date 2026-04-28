@@ -15,6 +15,7 @@ This repository contains examples, documentation, and technical resources for a 
 ## 🧠 Specifications
 
 - **Microcontroller**: STM32H750IBK6 (Arm Cortex-M7 @ 480 MHz)
+- **Internal SRAM**: 1 MB
 - **Internal Flash**: 2 MB
 - **External QSPI Flash**: 16 MB
 - **External SDRAM**: 16 MB (32-bit interface)
